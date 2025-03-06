@@ -1,5 +1,5 @@
 
-# Predictive Maintenance for Manufacturing
+# Predictive Maintenance System for Manufacturing
 
 ### **Problem Description**
 Manufacturing businesses face high costs due to unplanned downtimes caused by mechanical failures. Predictive maintenance aims to forecast these failures in advance to minimize downtime and costs. This project develops a predictive model to answer: **"What is the probability that a machine will fail soon due to a specific component failure?"** The problem is framed as a multi-class classification task using historical machine data.
